@@ -1,0 +1,10 @@
+Rex,Labrador,3,https://imgur.com/gallery/u5Tyb43
+Max,Pitbull,2,https://imgur.com/gallery/mTcOH03
+Buddy,Golden Retriever,4,https://imgur.com/gallery/6GuZIHD
+Charlie,German Shepherd,5,https://imgur.com/gallery/wqF89Ol
+Jack,Beagle,1,https://imgur.com/gallery/NSS14
+Toby,Poodle,2,https://imgur.com/gallery/GEhVC
+Oscar,Dachshund,3,https://imgur.com/gallery/bNVHHdu
+Milo,Siberian Husky,2,https://imgur.com/gallery/037CO
+Coco,Chihuahua,1,https://imgur.com/gallery/IXS0wVx
+Bella,French Bulldog,2,https://imgur.com/gallery/GCaGSq7

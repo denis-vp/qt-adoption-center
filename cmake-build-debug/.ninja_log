@@ -1,0 +1,30 @@
+# ninja log v5
+21	313	7072277936703342	a89_Denis916_autogen/mocs_compilation.cpp	b43252479d5c3177
+21	313	7072277936703342	a89_Denis916_autogen/timestamp	b43252479d5c3177
+136	1784	7072243831395748	CMakeFiles/a89_Denis916.dir/ui/qt_ui/piechartwidget.cpp.obj	2afa5e2a1cd0e2c0
+21	313	7072277936703342	C:/Users/qdeni/Documents/UBB Files/UBB SEM 2/Object Oriented Programming/Github/a89-Denis916/cmake-build-debug/a89_Denis916_autogen/timestamp	b43252479d5c3177
+1668	5712	7071825012702251	CMakeFiles/a89_Denis916.dir/domain/file_adoption_list/HtmlAdoptionList.cpp.obj	a8db8bc40844a239
+1690	3373	7071824989275522	CMakeFiles/a89_Denis916.dir/domain/AdoptionList.cpp.obj	10fae11fa49119df
+4	433	7072245032693568	build.ninja	37b7871c6d8d7276
+21	313	7072277936703342	C:/Users/qdeni/Documents/UBB Files/UBB SEM 2/Object Oriented Programming/Github/a89-Denis916/cmake-build-debug/a89_Denis916_autogen/mocs_compilation.cpp	b43252479d5c3177
+852	4749	7072246710271686	CMakeFiles/a89_Denis916.dir/a89_Denis916_autogen/mocs_compilation.cpp.obj	108789ee1fd5c285
+8032	8956	7072278019836402	a89_Denis916.exe	38b8165ce622931e
+848	4762	7072246710404069	CMakeFiles/a89_Denis916.dir/main.cpp.obj	90ca756d13877896
+1733	3091	7071824986386049	CMakeFiles/a89_Denis916.dir/repository/file_repository/DataBaseRepository.cpp.obj	b971ce7b7073b1c3
+1722	3120	7071824986733958	CMakeFiles/a89_Denis916.dir/repository/file_repository/FileRepository.cpp.obj	f1cd59260745511a
+1700	3184	7071824987394798	CMakeFiles/a89_Denis916.dir/extra/Utilities.cpp.obj	6e217b3d2afbc082
+1679	3237	7071824987925269	CMakeFiles/a89_Denis916.dir/domain/Pet.cpp.obj	9f7bef3dc1d82ab0
+1711	3369	7071824989243991	CMakeFiles/a89_Denis916.dir/repository/file_repository/TxtRepository.cpp.obj	6d223e39ab43686a
+1798	3372	7071824989275522	CMakeFiles/a89_Denis916.dir/validators/PetValidator.cpp.obj	2bdf52fab1631f28
+1744	3845	7071824994026096	CMakeFiles/a89_Denis916.dir/service/PetService.cpp.obj	14a5bf65df47b55f
+1786	3800	7071824993542643	CMakeFiles/a89_Denis916.dir/repository/Repository.cpp.obj	75209ddcc483b6c8
+1658	5617	7071825011739409	CMakeFiles/a89_Denis916.dir/domain/file_adoption_list/CsvAdoptionList.cpp.obj	321c2ff9851b3e75
+1765	5591	7071825011482353	CMakeFiles/a89_Denis916.dir/ui/Ui.cpp.obj	df47f29dbcc80fba
+338	8031	7072278013856659	CMakeFiles/a89_Denis916.dir/ui/qt_ui/qtui.cpp.obj	876b835fde42f0d0
+525	2144	7072243305501701	CMakeFiles/a89_Denis916.dir/piechartwidget.cpp.obj	9d9c1a84d38b4935
+24	341	7072281864005273	a89_Denis916_autogen/timestamp	b43252479d5c3177
+24	341	7072281864005273	a89_Denis916_autogen/mocs_compilation.cpp	b43252479d5c3177
+24	341	7072281864005273	C:/Users/qdeni/Documents/UBB Files/UBB SEM 2/Object Oriented Programming/Github/a89-Denis916/cmake-build-debug/a89_Denis916_autogen/timestamp	b43252479d5c3177
+24	341	7072281864005273	C:/Users/qdeni/Documents/UBB Files/UBB SEM 2/Object Oriented Programming/Github/a89-Denis916/cmake-build-debug/a89_Denis916_autogen/mocs_compilation.cpp	b43252479d5c3177
+371	10399	7072281964623960	CMakeFiles/a89_Denis916.dir/ui/qt_ui/qtui.cpp.obj	876b835fde42f0d0
+10400	11317	7072281970418579	a89_Denis916.exe	38b8165ce622931e
